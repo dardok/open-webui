@@ -217,6 +217,8 @@
 			code.includes('bs4') ? 'beautifulsoup4' : null,
 			code.includes('numpy') ? 'numpy' : null,
 			code.includes('pandas') ? 'pandas' : null,
+			code.includes('geopandas') ? 'geopandas' : null,
+			code.includes('networkx') ? 'networkx' : null,
 			code.includes('sklearn') ? 'scikit-learn' : null,
 			code.includes('scipy') ? 'scipy' : null,
 			code.includes('re') ? 'regex' : null,
