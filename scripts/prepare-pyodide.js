@@ -5,7 +5,6 @@ const packages = [
 	'beautifulsoup4',
 	'numpy',
 	'pandas',
-	'geopandas',
 	'networkx',
 	'matplotlib',
 	'scikit-learn',
